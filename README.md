@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## Reg no:212223230141
 ## Name:Navinkumar v
+## Reg no:212223230141
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -46,7 +46,7 @@ while True:
 ```
 ## OUPUT - ARP
 ### server
-![image](https://github.com/navinofficial/2c.ARP_RARP_PROTOCOLS/assets/151710204/71b93ac9-dd4e-4840-b69b-de4cd4085f2b)
+![Screenshot 2024-05-09 134458](https://github.com/navinofficial/2c.ARP_RARP_PROTOCOLS/assets/151710204/a14caa02-c823-49e6-9d30-73654d54f240)
 ## PROGRAM - RARP
 ### client
 ```
@@ -74,7 +74,7 @@ while True:
     print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT -RARP
-![image](https://github.com/navinofficial/2c.ARP_RARP_PROTOCOLS/assets/151710204/dde17216-610e-4478-a7c3-10a3625293ec)
+![image](https://github.com/navinofficial/2c.ARP_RARP_PROTOCOLS/assets/151710204/fbd3e3c9-6ad3-46ed-9115-b39e8b84faf2)
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
